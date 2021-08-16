@@ -14,6 +14,6 @@ const pessoa = {
 
 
 // Variáveis olhando para objeto pessoa
-let { nome, sobrenome, idade, profissao } = pessoa;
+let { nome, sobrenome, idade } = pessoa;
 
-console.log(nome, sobrenome, idade, profissao);
+console.log();
